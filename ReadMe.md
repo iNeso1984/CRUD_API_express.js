@@ -4,7 +4,7 @@
 
 ###How to run
 Uses Node.js, express.js, and PostMan or Insomnia
-1.run npm init -y //light framework
+1.run npm init -y 
 2.run npm install --save express
 3.run npm install --save-dev nodemon  --> saves your script without having to reload.
 4.In order to create a unique id for users use uuid.
