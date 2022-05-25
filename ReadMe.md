@@ -1,6 +1,6 @@
-CRUD REST API with Express.js 
+CRUD REST API with Node express.js 
 
-
+![Test Image 1](https://assets.website-files.com/5ff66329429d880392f6cba2/61c325278ba0dc1f5c550f27_CRUD%20acronym.png)
 
 How to run
 Uses Node.js, express.js, and PostMan or Insomnia
@@ -24,5 +24,15 @@ The first step is to set up a localhost then a Router.
 The routes folder will contain routers.  Router()
 
 controllers are exported and imported to router folder.
-Resource: https://github.com/adrianhajdin 
+
+Built with
+- JavaScript
+- Node
+- NPM
+- Nodemon
+
+
+
+
+
 
