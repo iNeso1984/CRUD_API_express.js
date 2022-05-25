@@ -1,8 +1,8 @@
-#CRUD REST API with Express.js 
+CRUD REST API with Express.js 
 
 
 
-###How to run
+How to run
 Uses Node.js, express.js, and PostMan or Insomnia
 1.run npm init -y 
 2.run npm install --save express
